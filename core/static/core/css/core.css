@@ -1,0 +1,32 @@
+html,body{
+    height: 100%;
+}
+.container-fluid{
+    min-height: 100%;
+}
+
+/* Icon Color */
+.i-color{
+    color: chartreuse;
+}
+
+/* Services Subtitle color */
+
+.ss-color{
+ color: silver;
+}
+
+/* Side Bar*/
+a.nav-link{
+    color: whitesmoke;
+}
+
+a.nav-link:hover{
+    color: black;
+    background-color: #e9cd79;
+}
+a.nav-link.active{
+    color: black;
+    background-color: #ffc107;
+    font-weight: bold;
+}
